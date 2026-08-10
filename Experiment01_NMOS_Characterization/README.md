@@ -7,7 +7,6 @@ To characterize an NMOS transistor using Cadence Virtuoso and obtain its DC char
 ## Software Used
 - Cadence Virtuoso
 - ADE-L
-- Spectre
 
 ## Experiment
 This experiment includes:
